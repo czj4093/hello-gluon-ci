@@ -8,6 +8,7 @@ For more details about Gluon Applications in general, please have a look at the 
 
 This sample focuses on the continuous integration using Github Actions on these platforms:
 
+
 * Windows
 * MacOS
 * Linux
