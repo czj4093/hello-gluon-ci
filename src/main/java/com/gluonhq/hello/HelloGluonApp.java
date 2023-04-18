@@ -52,6 +52,7 @@ public class HelloGluonApp extends Application {
 
     @Override
     public void init() {
+
         appManager.addViewFactory(HOME_VIEW, () -> {
             FloatingActionButton fab = new FloatingActionButton(MaterialDesignIcon.SEARCH.text,
                     e -> System.out.println("Search"));
